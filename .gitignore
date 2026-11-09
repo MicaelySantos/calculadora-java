@@ -1,0 +1,13 @@
+
+# Arquivos compilados do Java
+*.class
+*.jar
+
+# Arquivos gerados pelo IntelliJ
+.idea/
+*.iml
+out/
+
+# Arquivos temporarios
+*.log
+*.tmp
